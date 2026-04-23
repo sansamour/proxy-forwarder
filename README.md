@@ -4,7 +4,7 @@ A lightweight, cross-platform local proxy forwarder built with Flutter.
 
 **Proxy Forwarder** acts as a bridge between your local applications and remote authenticated proxies. It creates unauthenticated local ports (e.g., `127.0.0.1:10000`) and seamlessly injects your credentials (Username/Password) before forwarding the traffic to the remote proxy. It features a modern graphical user interface (GUI) and a robust Headless CLI mode for Linux VPS/Servers.
 
-![App Screenshot](docs/screenshot.png) *(Note: Replace this link with the actual path to your uploaded screenshot)*
+![App Screenshot](screenshot.png) *(Note: Replace this link with the actual path to your uploaded screenshot)*
 
 ## ✨ Features
 
