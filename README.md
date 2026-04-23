@@ -27,7 +27,7 @@ To build this project from the source, you will need:
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/sansamour/proxy_forward.git](https://github.com/sansamour/proxy_forward.git)
+git clone [https://github.com/sansamour/proxy_forwarder.git](https://github.com/sansamour/proxy_forwarder.git)
 cd proxy_forward
 ````
 
